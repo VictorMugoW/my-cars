@@ -54,7 +54,7 @@ error_reporting(0);
         <div class="col-md-5 col-md-push-7">
           <div class="banner_content">
             <h1>Find the ideal car for you.</h1>
-            <p>We have more cars for you to choose. </p>
+            <p>We have more cars for you to choose and quality. </p>
         </div>
       </div>
     </div>
